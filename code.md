@@ -43,30 +43,47 @@ fix: #xxx(number 如同2233)
 
 ## 状态标签
  `blocked`        - 被阻塞，等待其他依赖
+
  `WIP`            - 工作进行中（Work In Progress）
+
  `ready for review` - 准备审查
+
  `urgent`         - 紧急
+
  `tests needed`    - 需要测试
 
 ##  类型标签
 🛠️  `refactor`       - 代码重构
+
 ⚡ `performance`     - 性能优化
+
 🔧 `config`          - 配置变更
+
 🧹 `cleanup`         - 清理代码
+
 🚀 `feature`         - 新功能（enhancement的别名）
 
 ## 范围标签
 🎨 `UI`              - 用户界面相关
+
 📱 `mobile`          - 移动端相关  
+
 🌐 `i18n`            - 国际化相关
+
 🔒 `security`        - 安全相关
+
 📊 `analytics`       - 数据分析相关
+
 
 ## 协作标签
 👀 `needs review`    - 需要审查
+
 💬 `needs discussion` - 需要讨论
+
 📝 `needs docs`      - 需要文档
+
 🐛 `bug`             - Bug修复
+
 ❓ `question`         - 问题
 
 
